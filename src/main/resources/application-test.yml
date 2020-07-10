@@ -1,0 +1,9 @@
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    druid:
+      url: jdbc:mysql://106.55.173.156/gold_medal_coach?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+      username: root
+      password: ftnerw354..
